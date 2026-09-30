@@ -4,4 +4,4 @@ My name is Jan, and I am a **Computer Science student at the Autonomous Universi
 
 I am particularly interested in **videogame development, robotics, algorithm design and code optimization**.  
 
-My main programming language is **C++**, and I also use **Python** extensively.
+My main programming language is **C/C++**, and I also use **Python** extensively.
